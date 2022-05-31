@@ -8,5 +8,5 @@
     3. Additional items to be added as necessary...
 2. Establish a Development CICD pipeline for simple Web page
     1. Prepare a simple Web page using HTML, CSS and JavaScript.
-    2. Setup development repos/branches in Azure DevOps, using VSCode as the editor.
-    3. Setup CICD triggers in Azure DevOps for a CI pipeline and a CD pipeline
+    2. Setup development repos/branches in `github` ~~Azure DevOps~~, using VSCode as the editor.
+    3. Setup CICD triggers in  `github` ~~Azure DevOps~~ for a CI pipeline and a CD pipeline
